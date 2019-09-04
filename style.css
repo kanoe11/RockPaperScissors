@@ -10,7 +10,7 @@ body{
 }
 
 header  {
-    background: rgb(7, 226, 171);
+    background: wheat;
     padding: 20px;
 }
 
@@ -84,7 +84,7 @@ header > h1 {
 
 .choice:hover {
     cursor: pointer;
-    background:  rgb(7, 226, 171)
+    background: wheat; 
 }
 
 #action-message {
